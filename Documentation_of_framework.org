@@ -22,6 +22,10 @@ The below table covers three chemistry labs that are currently available on
 virtual labs. This gives an idea of how the predefined functions of the objects
 in the proposed library will look like.
 
+NOTE: Below, CASCL stands for Colloid and Surface Chemistry Lab. MASL stands
+for Molecular and Absorption Spectroscopy Lab. CDSL stands for Circular
+Dichroism Spectroscopy Lab.
+
 | Apparatus             | Lab   | Experiment | Functionality                               |
 |-----------------------+-------+------------+---------------------------------------------|
 | Beaker                | CASCL |        1,2 | 1.Getting filled with a liquid.             |
